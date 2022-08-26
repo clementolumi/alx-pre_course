@@ -1,3 +1,3 @@
 # alx-pre_course
 
-My first Git Project with ALXSE
+I'm now a ALX Student, this is my first repository as a full-stack engineer
